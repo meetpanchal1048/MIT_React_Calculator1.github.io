@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MIT_React_Calculator1.github.io/static/css/main.fb8512ff.css",
+    "main.js": "/MIT_React_Calculator1.github.io/static/js/main.d406b156.js",
+    "index.html": "/MIT_React_Calculator1.github.io/index.html",
+    "main.fb8512ff.css.map": "/MIT_React_Calculator1.github.io/static/css/main.fb8512ff.css.map",
+    "main.d406b156.js.map": "/MIT_React_Calculator1.github.io/static/js/main.d406b156.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb8512ff.css",
+    "static/js/main.d406b156.js"
+  ]
+}
